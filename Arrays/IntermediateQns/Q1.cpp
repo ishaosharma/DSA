@@ -1,4 +1,4 @@
- // QNS link = https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0
+ Find the Union and Intersection of the two sorted arrays.[practice here: https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0]
 
  //code here
         
